@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "Trang chủ",
+    "about": "Thông tin",
+    "english": "Phiên bản tiếng Anh",
+    "vietnamese": "Phiên bản tiếng Việt"
+  },
+  "home": {
+    "title": "Chào mừng",
+    "introduction": "Đây là trang giới thiệu tiếng Việt."
+  },
+  "about": {
+    "title": "Thông tin",
+    "introduction": "Đây là trang thông tin tiếng Việt."
+  }
+}
